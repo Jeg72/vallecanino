@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+
+<title> RSS</title>
+<link>http://www.vallecanino.com.ve/RSS </link>
+<description>RSS sencillo</description>
+
+<item>
+
+<title>Definición de RSS</title>
+<link>http://www.vallecanino.com.ve/</link>
+<description>La definición del RSS sencilla e intuitiva</description>
+
+</item>
+
+<item>
+
+<title>Valle canino</title>
+<link>http://www.vallecanino.com.ve/</link>
+<description>Contenido de esta información</description>
+
+</item>
+
+</channel>
+</rss>
+
